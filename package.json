@@ -1,0 +1,16 @@
+{
+  "name": "ping-pong-api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "An api to play with provisioning AWS resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Sam James",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
